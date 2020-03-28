@@ -1,6 +1,6 @@
-# Título del Proyecto
+#Gafas para invidentes
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este proyecto plantea realizar unas gafas para personas con vision nula  en la cual se usa sensores de ultrasonido para guiar a la persona y evitar choques con obstaculos ademas de tner una intgracion de compatibilidad de uso con un telefono inteligente para que de esta manera la persona pueda ser rastreada o quiera saber su ubicacion, se plantea que se pueda llevar a cabo que una persona invidente pueda ser un poco mas autonoma._
 
 ## Comenzando 🚀
 
